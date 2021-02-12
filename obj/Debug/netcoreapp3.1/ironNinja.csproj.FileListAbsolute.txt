@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\obj\Debug\netcoreapp3.1\ironNinja.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\obj\Debug\netcoreapp3.1\ironNinja.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\obj\Debug\netcoreapp3.1\ironNinja.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\obj\Debug\netcoreapp3.1\ironNinja.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\bin\Debug\netcoreapp3.1\ironNinja.exe
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\bin\Debug\netcoreapp3.1\ironNinja.deps.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\bin\Debug\netcoreapp3.1\ironNinja.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\bin\Debug\netcoreapp3.1\ironNinja.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\bin\Debug\netcoreapp3.1\ironNinja.dll
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\bin\Debug\netcoreapp3.1\ironNinja.pdb
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\obj\Debug\netcoreapp3.1\ironNinja.dll
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\obj\Debug\netcoreapp3.1\ironNinja.pdb
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\ironNinja\obj\Debug\netcoreapp3.1\ironNinja.genruntimeconfig.cache
